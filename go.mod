@@ -1,4 +1,4 @@
-module github.com/kitex-contrib/codec-dubbo
+module github.com/s5364733/codec-dubbo
 
 go 1.13
 
